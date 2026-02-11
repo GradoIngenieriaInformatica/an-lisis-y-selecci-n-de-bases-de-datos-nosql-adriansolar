@@ -1,1 +1,1 @@
-GRAFOS | Modelo optimizado para recorrer relaciones complejas entre nodos (usuarios/productos) eficientemente.
+GRAFOS | Modelo optimizado para recorrer relaciones complejas entre nodos (usuarios/productos) de una manera eficaz. 
