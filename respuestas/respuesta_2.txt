@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+CLAVE-VALOR | Acceso de latencia mínima (O(1)) ideal para datos efímeros y búsquedas directas por ID de sesión.
